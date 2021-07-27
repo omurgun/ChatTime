@@ -1,4 +1,4 @@
-package com.omurgun.chattime.fragments
+package com.omurgun.chattime.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater

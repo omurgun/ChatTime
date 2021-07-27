@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "354184160244",
+    "project_id": "chattime-f56bd",
+    "storage_bucket": "chattime-f56bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354184160244:android:e7ef132f580515cf190fa1",
+        "android_client_info": {
+          "package_name": "com.omurgun.chattime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354184160244-5vdi56tfgo2fd20c6gbamu6d0g8h2bjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omurgun.chattime",
+            "certificate_hash": "c5b02ccbea8940927ba1e53fc5b343d0874feffe"
+          }
+        },
+        {
+          "client_id": "354184160244-u11o1u9l5q2ei0gmj89apaqof2j1opt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWGFht5sa7y_Y5PeKIZ992VmnF3471-dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354184160244-u11o1u9l5q2ei0gmj89apaqof2j1opt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.omurgun.chattime.activities
+package com.omurgun.chattime.ui.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -13,6 +13,10 @@ class SplashScreenActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivitySplashScreenBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        val intent = Intent(this, PhoneLoginActivity::class.java)
+        startActivity(intent)
+        overridePendingTransition(android.R.anim.fade_in,android.R.anim.fade_out)
+        finish()
         init()
         animation()
     }

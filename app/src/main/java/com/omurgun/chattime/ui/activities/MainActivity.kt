@@ -1,6 +1,5 @@
-package com.omurgun.chattime.activities
+package com.omurgun.chattime.ui.activities
 
-import android.annotation.SuppressLint
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
@@ -13,10 +12,10 @@ import androidx.viewpager.widget.ViewPager.OnPageChangeListener
 import com.omurgun.chattime.R
 import com.omurgun.chattime.adapters.SectionsPagerAdapter
 import com.omurgun.chattime.databinding.ActivityMainBinding
-import com.omurgun.chattime.fragments.CallsFragment
-import com.omurgun.chattime.fragments.CameraFragment
-import com.omurgun.chattime.fragments.ChatsFragment
-import com.omurgun.chattime.fragments.StatusFragment
+import com.omurgun.chattime.ui.fragments.CallsFragment
+import com.omurgun.chattime.ui.fragments.CameraFragment
+import com.omurgun.chattime.ui.fragments.ChatsFragment
+import com.omurgun.chattime.ui.fragments.StatusFragment
 
 
 class MainActivity : AppCompatActivity() {

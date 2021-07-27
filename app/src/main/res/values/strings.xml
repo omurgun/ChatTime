@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ChatTime</string>
+    <string name="what_s_my_number">WhatsApp will send an SMS message to verify your phone number.What\'s my number?</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="add">+</string>
+    <string name="_90">90</string>
+    <string name="phone_number">phone number</string>
+    <string name="carrie_sms_charge_may_apply">Carrie SMS charge may apply</string>
+    <string name="next">Next</string>
 </resources>
